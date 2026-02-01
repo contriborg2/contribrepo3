@@ -3,7 +3,7 @@ const fs = require('fs');
 
 function processData(userInput) {
     // Potentially unsafe code for the scanner to find
-    console.log("Processinggg: " + userInput);
+    console.log("Processingggg: " + userInput);
     
     const data = {
         admin: false,
