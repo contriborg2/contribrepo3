@@ -8,7 +8,8 @@ function processData(userInput) {
     const data = {
         admin: false,
         AWS_ID: "AKIA45J78K92L0EXAMPLE",
-        AWS_SECRET: "zX9+bY7vR2qP4kL9mJ1nN6pT4vR8sK3lM5nB7vQ9aaabbbdddeeeffffgghh"
+        AWS_SECRET: "zX9+bY7vR2qP4kL9mJ1nN6pT4vR8sK3lM5nB7vQ9aaabbbdddeeeffffgghh",
+        token: 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
         
     };
 
