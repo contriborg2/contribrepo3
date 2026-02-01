@@ -7,7 +7,7 @@ function processData(userInput) {
     
     const data = {
         admin: false,
-        github_test_token: "ghp_000000000000000000000000000000000000";
+        github_test_token: "ghp_000000000000000000000000000000000000",
         
     };
 
