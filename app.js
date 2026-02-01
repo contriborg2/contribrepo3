@@ -7,7 +7,7 @@ function processData(userInput) {
     
     const data = {
         admin: false,
-        secretAccessKey: "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY",
+        github_test_token: "ghp_000000000000000000000000000000000000";
         
     };
 
