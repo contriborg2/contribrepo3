@@ -7,7 +7,7 @@ function processData(userInput) {
     
     const data = {
         admin: false,
-        accessKeyId: "AKIA52P6O3UEXAMPLE72",
+        secretAccessKey: "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY",
         
     };
 
