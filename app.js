@@ -7,7 +7,7 @@ function processData(userInput) {
     
     const data = {
         admin: false,
-        AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7EXAMPLE",
+        AWS_ACCESS_KEY_ID: "AKIAIOSFODNN7EXAMPLE",
         
     };
 
