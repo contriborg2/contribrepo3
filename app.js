@@ -7,8 +7,8 @@ function processData(userInput) {
     
     const data = {
         admin: false,
-        accessKeyId: "AKIA52P6O3UEXAMPLE72",
-        secretAccessKey: "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+        AWS_ID: "AKIA45J78K92L0EXAMPLE",
+        AWS_SECRET: "zX9+bY7vR2qP4kL9mJ1nN6pT4vR8sK3lM5nB7vQ9"
         
     };
 
