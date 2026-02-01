@@ -7,7 +7,7 @@ function processData(userInput) {
     
     const data = {
         admin: false,
-        key: "SECRET_TOKEN_12345"
+        key: "SECRET_TOKEN_123456"
         
     };
 
